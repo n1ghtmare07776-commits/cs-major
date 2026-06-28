@@ -1283,7 +1283,7 @@ FINAL (right-center, 1 match card at 240px, thicker 2px border in gold #F4B942)
 TROPHY ZONE (far right):
 A large stylized trophy icon (64px, gold #F4B942 with subtle glow) — hollow/outline style
 before champion is determined, filled style after champion is crowned.
-Below the trophy: the champion team name appears in gold text (or "???" before determined).
+Below the trophy: the champion team name appears in gold text (or "待决出" before determined).
 A small gold "CHAMPION" label above the trophy.
 
 BOTTOM INFO BAR (full width, two panels):
